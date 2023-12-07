@@ -22,3 +22,8 @@ LEXICON_RU: dict[str, str] = {
     'nobody_won': 'Ничья!\n\nПродолжим?',
     'bot_choice': 'Мой выбор'
 }
+
+LEXICON_COMMANDS_RU: dict[str, str] = {
+    '/start': 'Начало бота',
+    '/help': 'Помощь',
+}
